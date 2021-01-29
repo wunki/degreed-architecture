@@ -3,15 +3,13 @@
 ## Homepage
 title = "Degreed Architecture"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "All things Degreed Engineering"
+description = "This is the documentation on the Degreed Architecture. Here you can learn all about our architecture as a whole and how we develop."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
 twitterSite = "degreed"
 twitterCreator = "degreed"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
 ogLocale = "en_US"
 
 ## JSON-LD
