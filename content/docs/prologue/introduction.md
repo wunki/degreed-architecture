@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-description: "Read everything you need to know about the Degreed architecture in these docs."
-lead: "Read everything you need to know about the Degreed architecture in these docs."
+description: "Read everything you need to know about the Degreed architecture, from data APIs, through Event-Driven Architecture, we got you covered."
+lead: "Read everything you need to know about the Degreed architecture, from data APIs, through Event-Driven Architecture, we got you covered."
 date: 2021-01-29
 lastmod: 2021-01-29
 draft: false
