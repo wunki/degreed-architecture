@@ -5,6 +5,30 @@
   url = "/docs/prologue/"
 
 [[docs]]
+  name = "Data APIs"
+  weight = 11
+  identifier = "data"
+  url = "/docs/data/"
+
+[[docs]]
+  name = "Application Services"
+  weight = 12
+  identifier = "applications"
+  url = "/docs/applications/"
+
+[[docs]]
+  name = "Event-Driven Architecture"
+  weight = 13
+  identifier = "events"
+  url = "/docs/event-driven/"
+
+[[docs]]
+  name = "Architecture Principles"
+  weight = 14
+  identifier = "principles"
+  url = "/docs/principles/"
+
+[[docs]]
   name = "Help"
   weight = 60
   identifier = "help"
@@ -17,7 +41,7 @@
 
 [[main]]
   name = "Changelog"
-  url = "/blog/"
+  url = "/changelog/"
   weight = 20
 
 [[social]]

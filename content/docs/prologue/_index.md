@@ -1,6 +1,6 @@
 ---
 title : "Prologue"
-description: "Prologue Doks."
+description: "Your starting point for all things architecture"
 lead: ""
 date: 2020-10-06T08:48:45+00:00
 lastmod: 2020-10-06T08:48:45+00:00

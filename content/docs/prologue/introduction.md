@@ -1,27 +1,22 @@
 ---
 title: "Introduction"
 description: "Read everything you need to know about the Degreed architecture, from data APIs, through Event-Driven Architecture, we got you covered."
-lead: "Read everything you need to know about the Degreed architecture, from data APIs, through Event-Driven Architecture, we got you covered."
+lead: ""
 date: 2021-01-29
 lastmod: 2021-01-29
 draft: false
 images: []
 menu:
   docs:
+    identifier: prologue-introduction
     parent: "prologue"
 weight: 100
 toc: true
 ---
 
-## How to contribute
+WRITE ABOUT ARCHITECTURE HERE.
 
-At the bottom of each page you will find a "Edit this page on Github" button. You can either edit the file on Github and send a PR our way, or you can clone the repository and edit the markdown files in the `content` directory.
+## Want to chat?
 
-If you want to run it locally, you need to clone the repository and get the dependencies with:
+If you want to talk more about architecture, join us on Slack in the [#architecture-townhall](https://degreed.slack.com/archives/C01LZ1XNH1Q) channel.
 
-    npm install
-    
-After which you can run it with:
-
-    npm run start
-    
