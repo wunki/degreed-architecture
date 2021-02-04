@@ -10,8 +10,7 @@ menu:
   docs:
     identifier: prologue-introduction
     parent: "prologue"
-weight: 100
-toc: true
+weight: 101
 ---
 
 WRITE ABOUT ARCHITECTURE HERE.

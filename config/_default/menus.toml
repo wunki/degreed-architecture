@@ -1,36 +1,42 @@
 [[docs]]
   name = "Prologue"
-  weight = 10
+  weight = 100
   identifier = "prologue"
   url = "/docs/prologue/"
 
 [[docs]]
+  name = "Architecture Principles"
+  weight = 200
+  identifier = "principles"
+  url = "/docs/principles/"
+
+[[docs]]
   name = "Data APIs"
-  weight = 11
+  weight = 300
   identifier = "data"
   url = "/docs/data/"
 
 [[docs]]
   name = "Application Services"
-  weight = 12
+  weight = 400
   identifier = "applications"
   url = "/docs/applications/"
 
 [[docs]]
   name = "Event-Driven Architecture"
-  weight = 13
+  weight = 500
   identifier = "events"
   url = "/docs/event-driven/"
 
 [[docs]]
-  name = "Architecture Principles"
-  weight = 14
-  identifier = "principles"
-  url = "/docs/principles/"
+  name = "Legacy System"
+  weight = 600
+  identifier = "legacy"
+  url = "/docs/legacy/"
 
 [[docs]]
   name = "Help"
-  weight = 60
+  weight = 700
   identifier = "help"
   url = "/docs/help/"
 
