@@ -14,7 +14,7 @@
     "prestart": "npm run clean",
     "start": "hugo server --disableFastRender",
     "prebuild": "npm run clean",
-    "build": "hugo --gc --minify && npm run build:functions",
+    "build": "hugo --gc --minify",
     "build:preview": "npm run build -D -F",
     "build-gitlab": "hugo -b https://degreed.github.io/architecture/ --gc --minify && npm run",
     "clean": "rimraf public resources functions",
