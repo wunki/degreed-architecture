@@ -48,3 +48,8 @@ The JSON:API framework depends heavily on [Entity Framework Core](https://docs.m
 * No more use of Stored Procedures for access management or validation of inputs. This should all reside in the application, before being sent to the persistence layer.
 
 * If you require to use Stored Procedures for reads, always start with views as they are much easier to use and they integrate better with EF Core, a core component of our JSON:API framework.
+
+## Related Resources
+
+* [Five levels of performance tuning for an EF Core query](https://www.thereformedprogrammer.net/five-levels-of-performance-tuning-for-an-ef-core-query/). Blog post on how to do performance improvements for Entity Framework Core.
+* [Entity Framework Core in Action](https://www.manning.com/books/entity-framework-core-in-action). Best book en EF Core.
