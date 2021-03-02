@@ -18,7 +18,7 @@ By implementing application services, we will reduce the cognitive load required
 
 Application services are units of business logic which act on changes within the business. That's all they contain, business logic. The application services sit on top of our Domain API's and preferably have a one-to-one relation with them.
 
-We have a whole [Domain APIs]({{< ref "/docs/data/introduction" >}}) chapter dedicated to them, where you can read how they communicate and fit within the whole eco-system.
+We have a whole [Domain APIs]({{< ref "/docs/domain/introduction" >}}) chapter dedicated to them, where you can read how they communicate and fit within the whole eco-system.
 
 ## Conclusion
 

@@ -13,8 +13,8 @@
 [[docs]]
   name = "Domain APIs"
   weight = 300
-  identifier = "data"
-  url = "/docs/data/"
+  identifier = "domain"
+  url = "/docs/domain/"
 
 [[docs]]
   name = "Application Services"
