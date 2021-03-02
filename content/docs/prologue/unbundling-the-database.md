@@ -1,7 +1,7 @@
 ---
 title: "Unbundling the Database"
 description: ""
-lead: "Our data layer is the foundation of our application. It needs to scale and adapt to change. All of this without introducing any breaking changes. Unbundling our database with the help of Data APIs is how we achieve these goals."
+lead: "Our data layer is the foundation of our application. It needs to scale and adapt to change. All of this without introducing any breaking changes. Unbundling our database with the help of Domain APIs is how we achieve these goals."
 date: 2021-02-04T11:48:56+01:00
 lastmod: 2021-02-04T11:48:56+01:00
 draft: false
@@ -28,4 +28,4 @@ How are you able to address changing requirements in your most stable part of yo
 
 As always in software engineering, the answer is abstractions. You abstract away the data layer by supplying an interface, a contract. As a user you don't have to deal with implementation details or changing internals, you can depend on a stable contract.
 
-We will introduce an uniform contract for getting data in and out of the system. Ours is a REST API, where we communicate in JSON's, something we are all familiar with. This is what we call [Data APIs]({{< ref "/docs/data/introduction" >}}) and we will dive deeper into the details later on.
+We will introduce an uniform contract for getting data in and out of the system. Ours is a REST API, where we communicate in JSON's, something we are all familiar with. This is what we call [Domain APIs]({{< ref "/docs/data/introduction" >}}) and we will dive deeper into the details later on.

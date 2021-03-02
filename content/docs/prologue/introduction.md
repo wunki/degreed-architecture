@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-description: "Read everything you need to know about the Degreed architecture, from data APIs, through Event-Driven Architecture, we got you covered."
+description: "Read everything you need to know about the Degreed architecture, from Domain APIs, through Event-Driven Architecture, we got you covered."
 lead: "You found it, the recipe book for Degreed's software development. In here you can read everything you need to know about being a succesfull and happy cook in our kitchen."
 date: 2021-01-29
 lastmod: 2021-01-29

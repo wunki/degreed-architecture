@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "principles"
-weight: 206
+weight: 207
 toc: true
 ---
 Degreed is transitioning from a Software as a Service (Saas) to a Software as a Platform (SaaP) model for our business partners. As a company we want to deliver products to our (internal and external) customers which can be consumed by their own services.

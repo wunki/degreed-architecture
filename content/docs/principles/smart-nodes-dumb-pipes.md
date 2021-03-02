@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "principles"
-weight: 204
+weight: 205
 toc: true
 ---
 Composing larger systems around simpler and smaller systems also means needing to own their communication with other systems as well. To allow systems to evolve over time and keep up with the business’s desired pace of change, having them own their communication allows them to change quickly rather than negotiating a change to the pipes that connect them.
