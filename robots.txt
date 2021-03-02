@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://degreed.github.io/architecture/sitemap.xml
