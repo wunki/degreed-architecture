@@ -22,7 +22,7 @@ Database as a service
 
 We are moving towards a Database as a Service model where each Domain API will access its own persistent storage, completely independent of other Domain APIs.
 
-This means that we can use persistence which is emphatic to the domain. Using Stored Procedures binds us to a specific technology. Using Entity Framework means you could with relative low effort switch between SQL Server, PostgreSQL and Cosmos DB.
+This means that we can use persistence which is optimal to the domain. Using Stored Procedures binds us to a specific technology. Using Entity Framework means you could with relative low effort switch between SQL Server, PostgreSQL and Cosmos DB.
 
 ## Monolithic Database
 
